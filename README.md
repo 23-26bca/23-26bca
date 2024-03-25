@@ -7,17 +7,17 @@
 
 
 
-- 🔭 I’m currently working on [Projects](https://github.com/DANIJOHN4/Projects)
+- 🔭 We are currently working on **updating this repo!!**
 
-- 🌱 I’m currently learning **programming and AI, AR, MV & VR**
+- 🌱 We are currently learning **programmin**
 
-- 🤝 I’m looking for help with **programming C++ and Sql** 👯
+- 🤝 We are looking for help with **programming C++ and Sql** 👯
 
 - ⚡ Fun fact : **we are funny.**
 
 - 💬 Ask me about **Programs**
 
-- 📫 How to reach me: **itsus.kjcmt@gmail.com**
+- 📫 How to reach us : **23.26bca@gmail.com**
 - 😄 Pronouns: you
 - <p>We are the mysterious coders helping our mates to access the codes</p>
 -->
