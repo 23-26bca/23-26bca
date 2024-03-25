@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact : **we are funny.**
 
-- 💬 Ask me about **Programs**
+- 💬 Ask us about **Programs**
 
 - 📫 How to reach us : **23.26bca@gmail.com**
 - 😄 Pronouns: you
