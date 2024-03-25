@@ -9,7 +9,7 @@
 
 - 🔭 We are currently working on **updating this repo!!**
 
-- 🌱 We are currently learning **programmin**
+- 🌱 We are currently learning **programming**
 
 - 🤝 We are looking for help with **programming C++ and Sql** 👯
 
